@@ -1,0 +1,9 @@
+#Requirements  
+* The model could be run in the environment as follows:
+* Python 3.8.3  
+* torch 1.7.1 + cu110  
+* numpy == 1.22.3
+* pandas == 1.0.5
+* biopython == 1.79
+* sklearn == 0.19.2
+* gensim == 4.0.0
